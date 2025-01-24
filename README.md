@@ -1,2 +1,2 @@
 # GitHub Actions Lab 1
-fjhgkdfjkg
+This is python project run on github action!
